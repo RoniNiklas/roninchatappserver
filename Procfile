@@ -1,0 +1,1 @@
+web: node server.js | react-scripts start
